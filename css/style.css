@@ -6,7 +6,7 @@
 /* logo */
 
 body{
-    background-color: grey;
+    background-color: #f6f8f9;
     /* da fixare */
 }
 header{
@@ -26,7 +26,7 @@ h1{
 main{
     background-color: white;
     border-radius: 20px;
-    margin: 10px 50px;
+    margin: 10px 100px;
     
     
 }
@@ -34,7 +34,28 @@ main{
 .nav-bar{
     padding-top: 10px;
     padding-bottom: 5px;
-    padding-left: 40px;
+    padding-left: 50px;
 
-    border-bottom: 2px solid grey;
+    border-bottom: 2px solid #f6f8f9;
+}
+.buttons{
+    border-radius: 5px;
+    border-style: none;
+    font-size: 10px;
+    padding: 5px 10px;
+}
+#blue-button{
+    background-color: #47adf1;
+    color: white;
+}
+
+/* task */
+
+.windows{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
