@@ -5,10 +5,8 @@
 }
 
 /* logo */
-
 body{
     background-color: #f6f8f9;
-    /* da fixare */
 }
 header{
     padding: 10px;
@@ -21,15 +19,15 @@ header{
 }
 h1{
     display: inline-block;
-    
 }
+
 /* button section */
 main{
     background-color: white;
     border-radius: 10px;
     margin: 10px 100px;   
+    padding-bottom: 40px;
 }
-
 .nav-bar{
     padding-top: 10px;
     padding-bottom: 5px;
@@ -44,9 +42,7 @@ main{
     padding: 5px 10px;
 }
 
-
 /* task */
-
 .windows{
     padding-left: 50px;
     padding-top: 10px;
@@ -62,7 +58,6 @@ h2{
     border-radius: 50%;
     text-align: center;
 }
-
 .check{
     color: lightgreen;
     border: 2px solid lightgreen;
@@ -74,9 +69,7 @@ h2{
     font-size: 15px;
 }
 
-
-
-
+/* righe */
 .row{
     padding: 5px;
 }
@@ -90,6 +83,12 @@ h2{
 }
 #blue-button{
     background-color: #47adf1;
+}
+#pink-button{
+    background-color: #d863a1 ;
+}
+#lightgreen-button{
+    background-color: #b0c926 ;
 }
 .white{
     color: white;
