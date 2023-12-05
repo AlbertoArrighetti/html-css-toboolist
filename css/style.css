@@ -3,22 +3,38 @@
     margin: 0;
 }
 
+/* logo */
+
 body{
     background-color: grey;
     /* da fixare */
 }
-
 header{
     padding: 10px;
+    margin-bottom: 50px;
     background-color: white;
 }
-
 #logo{
     vertical-align: middle;
     padding-bottom: 10px;
 }
-
 h1{
     display: inline-block;
     
+}
+/* button section */
+main{
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px 50px;
+    
+    
+}
+
+.nav-bar{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+
+    border-bottom: 2px solid grey;
 }
